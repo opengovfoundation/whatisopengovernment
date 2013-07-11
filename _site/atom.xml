@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>What is Open Government?</title>
- <link href="http://whatisopengovernment.github.io/" rel="self"/>
- <link href="http://whatisopengovernment.github.io"/>
- <updated>2013-07-11T13:48:23-04:00</updated>
- <id>http://whatisopengovernment.github.io</id>
+ <link href="whatisopengovernment.org/" rel="self"/>
+ <link href="whatisopengovernment.org"/>
+ <updated>2013-07-11T14:30:27-04:00</updated>
+ <id>whatisopengovernment.org</id>
  <author>
    <name>Chris Birk</name>
    <email>cmbirk@gmail.com</email>
