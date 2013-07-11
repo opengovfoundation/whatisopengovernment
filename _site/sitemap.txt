@@ -7,5 +7,3 @@ http://whatisopengovernment.github.io/pages.html
 http://whatisopengovernment.github.io/rss.xml
 http://whatisopengovernment.github.io/sitemap.txt
 http://whatisopengovernment.github.io/tags.html
-
-http://whatisopengovernment.github.io/lessons/2011/12/29/jekyll-introduction
