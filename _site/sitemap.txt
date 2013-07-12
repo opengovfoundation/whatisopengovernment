@@ -7,3 +7,6 @@ whatisopengovernment.org/pages.html
 whatisopengovernment.org/rss.xml
 whatisopengovernment.org/sitemap.txt
 whatisopengovernment.org/tags.html
+
+whatisopengovernment.org/2013/07/11/open-source
+whatisopengovernment.org/2013/07/11/open-data

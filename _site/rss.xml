@@ -5,10 +5,26 @@
         <description>What is Open Government? - Chris Birk</description>
         <link>whatisopengovernment.org</link>
         <link>whatisopengovernment.org</link>
-        <lastBuildDate>2013-07-11T14:30:27-04:00</lastBuildDate>
-        <pubDate>2013-07-11T14:30:27-04:00</pubDate>
+        <lastBuildDate>2013-07-11T21:04:33-04:00</lastBuildDate>
+        <pubDate>2013-07-11T21:04:33-04:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Open Source</title>
+                <description>&lt;p&gt;According to Wikipedia, Open Source refers to a program in which the source control is available to the general public for use and/or modification from its original design.&lt;/p&gt;</description>
+                <link>whatisopengovernment.org/2013/07/11/open-source</link>
+                <guid>whatisopengovernment.org/2013/07/11/open-source</guid>
+                <pubDate>2013-07-11T00:00:00-04:00</pubDate>
+        </item>
+
+        <item>
+                <title>Open Data</title>
+                <description>&lt;p&gt;Wikipedia defines &amp;#8216;Open Data&amp;#8217; as the idea that certain data should be freely available to everyone to use and republish as they wish, without restrictions from copyright, patents or other mechanisms of control.&lt;/p&gt;</description>
+                <link>whatisopengovernment.org/2013/07/11/open-data</link>
+                <guid>whatisopengovernment.org/2013/07/11/open-data</guid>
+                <pubDate>2013-07-11T00:00:00-04:00</pubDate>
+        </item>
 
 
 </channel>
