@@ -5,10 +5,18 @@
         <description>What is Open Government? - Chris Birk</description>
         <link>whatisopengovernment.org</link>
         <link>whatisopengovernment.org</link>
-        <lastBuildDate>2013-07-11T21:04:33-04:00</lastBuildDate>
-        <pubDate>2013-07-11T21:04:33-04:00</pubDate>
+        <lastBuildDate>2013-07-11T21:08:01-04:00</lastBuildDate>
+        <pubDate>2013-07-11T21:08:01-04:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>XML</title>
+                <description></description>
+                <link>whatisopengovernment.org/2013/07/11/xml</link>
+                <guid>whatisopengovernment.org/2013/07/11/xml</guid>
+                <pubDate>2013-07-11T00:00:00-04:00</pubDate>
+        </item>
 
         <item>
                 <title>Open Source</title>
@@ -23,6 +31,86 @@
                 <description>&lt;p&gt;Wikipedia defines &amp;#8216;Open Data&amp;#8217; as the idea that certain data should be freely available to everyone to use and republish as they wish, without restrictions from copyright, patents or other mechanisms of control.&lt;/p&gt;</description>
                 <link>whatisopengovernment.org/2013/07/11/open-data</link>
                 <guid>whatisopengovernment.org/2013/07/11/open-data</guid>
+                <pubDate>2013-07-11T00:00:00-04:00</pubDate>
+        </item>
+
+        <item>
+                <title>Machine readable Data</title>
+                <description></description>
+                <link>whatisopengovernment.org/2013/07/11/machine-readable-data</link>
+                <guid>whatisopengovernment.org/2013/07/11/machine-readable-data</guid>
+                <pubDate>2013-07-11T00:00:00-04:00</pubDate>
+        </item>
+
+        <item>
+                <title>GitHub</title>
+                <description></description>
+                <link>whatisopengovernment.org/2013/07/11/github</link>
+                <guid>whatisopengovernment.org/2013/07/11/github</guid>
+                <pubDate>2013-07-11T00:00:00-04:00</pubDate>
+        </item>
+
+        <item>
+                <title>Copyright Restriction</title>
+                <description></description>
+                <link>whatisopengovernment.org/2013/07/11/copyright-restriction</link>
+                <guid>whatisopengovernment.org/2013/07/11/copyright-restriction</guid>
+                <pubDate>2013-07-11T00:00:00-04:00</pubDate>
+        </item>
+
+        <item>
+                <title>Collaborative Policymaking</title>
+                <description></description>
+                <link>whatisopengovernment.org/2013/07/11/collaborative-policymaking</link>
+                <guid>whatisopengovernment.org/2013/07/11/collaborative-policymaking</guid>
+                <pubDate>2013-07-11T00:00:00-04:00</pubDate>
+        </item>
+
+        <item>
+                <title>Closed Software</title>
+                <description></description>
+                <link>whatisopengovernment.org/2013/07/11/closed-software</link>
+                <guid>whatisopengovernment.org/2013/07/11/closed-software</guid>
+                <pubDate>2013-07-11T00:00:00-04:00</pubDate>
+        </item>
+
+        <item>
+                <title>Closed (Proprietary) Data</title>
+                <description></description>
+                <link>whatisopengovernment.org/2013/07/11/closed-proprietary-data</link>
+                <guid>whatisopengovernment.org/2013/07/11/closed-proprietary-data</guid>
+                <pubDate>2013-07-11T00:00:00-04:00</pubDate>
+        </item>
+
+        <item>
+                <title>Closed Government</title>
+                <description></description>
+                <link>whatisopengovernment.org/2013/07/11/closed-government</link>
+                <guid>whatisopengovernment.org/2013/07/11/closed-government</guid>
+                <pubDate>2013-07-11T00:00:00-04:00</pubDate>
+        </item>
+
+        <item>
+                <title>Civic Hacking</title>
+                <description></description>
+                <link>whatisopengovernment.org/2013/07/11/civic-hacking</link>
+                <guid>whatisopengovernment.org/2013/07/11/civic-hacking</guid>
+                <pubDate>2013-07-11T00:00:00-04:00</pubDate>
+        </item>
+
+        <item>
+                <title>Citizen Engagement</title>
+                <description></description>
+                <link>whatisopengovernment.org/2013/07/11/citizen-engagement</link>
+                <guid>whatisopengovernment.org/2013/07/11/citizen-engagement</guid>
+                <pubDate>2013-07-11T00:00:00-04:00</pubDate>
+        </item>
+
+        <item>
+                <title>API</title>
+                <description></description>
+                <link>whatisopengovernment.org/2013/07/11/api</link>
+                <guid>whatisopengovernment.org/2013/07/11/api</guid>
                 <pubDate>2013-07-11T00:00:00-04:00</pubDate>
         </item>
 

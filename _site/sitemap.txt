@@ -8,5 +8,16 @@ whatisopengovernment.org/rss.xml
 whatisopengovernment.org/sitemap.txt
 whatisopengovernment.org/tags.html
 
+whatisopengovernment.org/2013/07/11/xml
 whatisopengovernment.org/2013/07/11/open-source
 whatisopengovernment.org/2013/07/11/open-data
+whatisopengovernment.org/2013/07/11/machine-readable-data
+whatisopengovernment.org/2013/07/11/github
+whatisopengovernment.org/2013/07/11/copyright-restriction
+whatisopengovernment.org/2013/07/11/collaborative-policymaking
+whatisopengovernment.org/2013/07/11/closed-software
+whatisopengovernment.org/2013/07/11/closed-proprietary-data
+whatisopengovernment.org/2013/07/11/closed-government
+whatisopengovernment.org/2013/07/11/civic-hacking
+whatisopengovernment.org/2013/07/11/citizen-engagement
+whatisopengovernment.org/2013/07/11/api
